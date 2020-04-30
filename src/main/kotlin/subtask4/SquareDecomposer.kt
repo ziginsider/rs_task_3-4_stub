@@ -1,9 +1,9 @@
 package subtask4
 
-class Pangram {
+class SquareDecomposer {
 
     // TODO: Complete the following function
-    fun getResult(inputString: String): String {
+    fun decomposeNumber(number: Int): Array<Int>? {
         throw NotImplementedError("Not implemented")
     }
 }

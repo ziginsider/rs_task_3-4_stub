@@ -1,9 +1,9 @@
 package subtask1
 
-class DateFormatter {
+class PolynomialConverter {
 
     // TODO: Complete the following function
-    fun toTextDay(day: String, month: String, year: String): String {
+    fun convertToStringFrom(numbers: Array<Int>): String? {
         throw NotImplementedError("Not implemented")
     }
 }

@@ -1,9 +1,9 @@
-package subtask6
+package subtask2
 
-class Fibonacci {
+class Combinator {
 
     // TODO: Complete the following function
-    fun productFibonacciSequenceFor(n: Int): IntArray {
+    fun checkChooseFromArray(array: Array<Int>): Int? {
         throw NotImplementedError("Not implemented")
     }
 }

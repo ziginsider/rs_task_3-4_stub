@@ -2,10 +2,10 @@ package subtask5
 
 import kotlin.reflect.KClass
 
-class Blocks {
+class TelephoneFinder {
 
     // TODO: Complete the following function
-    fun getData(blockA: Array<Any>, blockB: KClass<*>): Any {
+    fun findAllNumbersFromGivenNumber(number: String): Array<String>? {
         throw NotImplementedError("Not implemented")
     }
 }

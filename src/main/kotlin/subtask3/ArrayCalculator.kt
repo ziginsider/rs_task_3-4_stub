@@ -1,9 +1,9 @@
 package subtask3
 
-class Abbreviation {
+class ArrayCalculator {
 
     // TODO: Complete the following function
-    fun abbreviationFromA(a: String, b: String): String {
+    fun maxProductOf(numberOfItems: Int, itemsFromArray: Array<Any>): Int {
         throw NotImplementedError("Not implemented")
     }
 }

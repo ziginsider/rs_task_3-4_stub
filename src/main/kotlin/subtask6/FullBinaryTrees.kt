@@ -1,9 +1,9 @@
-package subtask2
+package subtask6
 
-class TimeConverter {
+class FullBinaryTrees {
 
     // TODO: Complete the following function
-    fun toTextFormat(hour: String, minute: String): String {
+    fun stringForNodeCount(count: Int): String {
         throw NotImplementedError("Not implemented")
     }
 }
